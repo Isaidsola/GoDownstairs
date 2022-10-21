@@ -1,6 +1,10 @@
 # GoDownStair
 GoDownStair
-demo
+下樓梯
+
+Unity版本:2021.3.11f1
+
+參考demo
 https://www.play337.com/a.asp?id=70
 
 參考文獻:
