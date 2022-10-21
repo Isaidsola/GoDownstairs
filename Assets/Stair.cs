@@ -13,7 +13,7 @@ public class Stair : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.transform.position += new Vector3(0, 0.001f, 0);
+        this.transform.position += new Vector3(0, 1f * Time.deltaTime, 0);
         if (this.transform.position.y > 3.4f)
         {
             Destroy(this);

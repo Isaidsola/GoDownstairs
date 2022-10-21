@@ -1,8 +1,10 @@
 # GoDownStair
-GoDownStair
-下樓梯
+## 下樓梯
 
 Unity版本:2021.3.11f1
+
+WebGL
+https://isaidsola.github.io/GoDownstairs/Publish/
 
 參考demo
 https://www.play337.com/a.asp?id=70
